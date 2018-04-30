@@ -16,7 +16,7 @@ var _propTypes2 = _interopRequireDefault(_propTypes);
 
 var _lodash = require('lodash');
 
-require('./index.css');
+// require('./index.css');
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
